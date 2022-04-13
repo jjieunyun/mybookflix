@@ -1,5 +1,3 @@
-
-
 const methods = {
     headerScroll() {
         const header = document.querySelector("#header");

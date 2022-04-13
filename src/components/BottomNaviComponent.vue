@@ -46,7 +46,7 @@ export default {
 }
 
 button {
-    cursor: grabbing;
+    cursor: grab;
 }
 
 .button:hover {

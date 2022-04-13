@@ -129,7 +129,7 @@ export default {
 
   background-color: #000000;
   color: white;
-  cursor: grabbing;
+  cursor: grab;
   border: 1px solid gray;
   border-radius: 5px;
   padding: 7px;

@@ -29,7 +29,7 @@ Vue.config.productionTip = false /* eslint-disable no-new */
 
 
 //외부 js문서 import하기
-import headerScroll from '@/assets/js/header'
+import headerScroll from '@/assets/js/header.js'
 Vue.use(headerScroll)
 
 //import ContentsSlider from '@/assets/js/Slider'

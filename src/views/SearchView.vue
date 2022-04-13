@@ -17,7 +17,7 @@
         <h2>북플릭스 추천 검색어</h2>
         <div class="keywords-box">
             <ul class="keywords">
-                <li style="cursor: grabbing;" v-for="(title,index) in refKeywords" class="" :key="index"><a class="">{{title.name}}</a></li>
+                <li style="cursor: grab;" v-for="(title,index) in refKeywords" class="" :key="index"><a class="">{{title.name}}</a></li>
         </ul>
         </div>
         

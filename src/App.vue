@@ -32,7 +32,7 @@
             <!--header profile + icon-->
             <div class="inner_header_profile" @mouseleave="profileDisplay=false" >
                 <span @mouseover="profileDisplay=true">
-                    <font-awesome-icon  style=" cursor: grabbing; padding-left:10px" icon="fa-solid fa-user" />
+                    <font-awesome-icon  style=" cursor: grab; padding-left:10px" icon="fa-solid fa-user" />
                 </span>
 
                 <!--profile contents-->
@@ -74,7 +74,7 @@
                 매주 새로운 책 공개</h3>
                 <p>인생의 재미를 찾아줄 <span class="text1">BookFlix</span> Original</p>
                 <div class="buttons" >
-                    <button class="buttonOne" style=" cursor: grabbing;">
+                    <button class="buttonOne" style=" cursor: grab;">
                         <font-awesome-icon style=" padding-right: 5px;"  icon="fa-solid fa-bookmark" />
                         <span>바로읽기</span>
                     </button>
@@ -301,7 +301,7 @@ header .icons span {
     text-shadow: 1px 2px 1px var(--black-color);
 }
 .banner .bannerText .buttons {
-    cursor:grabbing;
+    cursor:grab;
     font-weight: bold;
 }
 
@@ -321,12 +321,12 @@ header .icons span {
 
 .buttonOne:hover {
     background-color: rgb(255,255,255,0.5);
-    cursor: grabbing;
+    cursor: grab;
 }
 
 .buttons .buttonTwo {
     background-color: rgba(113, 113, 113, 0.708);
-    cursor: grabbing;
+    cursor: grab;
     color:#fff;
 }
 
