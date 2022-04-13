@@ -119,7 +119,7 @@ export default {
   name : 'app',
   components : {
     BottomNaviComponent,
-    FooterComponent,
+    FooterComponent
   },
   data : function()  {
     return {
@@ -134,7 +134,7 @@ export default {
                     {title : '내가 찜한 도서' },
                 ],
                 dataNotifications : dataNotification,
-                dataPrifiles : dataPrifile,
+                dataPrifiles : dataPrifile
                 
     }
   },
