@@ -144,7 +144,7 @@ export default {
                     {title : '스테디 셀러' },
                     {title : '신간 베스트' },
                     {title : '이벤트 도서' },
-          ],
+          ]
           
       }
   },

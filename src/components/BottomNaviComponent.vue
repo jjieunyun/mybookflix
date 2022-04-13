@@ -35,7 +35,7 @@
 
 <script>
 export default {
-    name : 'BottomNaviComponent' ,
+    name : 'BottomNaviComponent' 
 }
 </script>
 

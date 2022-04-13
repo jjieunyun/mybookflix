@@ -41,7 +41,7 @@ export default {
                 {name : '미디어 센터' },
                 {name : '쿠키 설정' },
 
-            ],
+            ]
         }
     }
 }

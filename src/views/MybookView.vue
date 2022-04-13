@@ -103,13 +103,13 @@ export default {
 
 .book-box {
 
-    width: 15vw;
+    width: 15%;
     margin: 2vw;
-    height: 40vh;
 }
 
 .text-box {
     text-align: center;
+    width: 100%;
 }
 
 .text-box p {
@@ -120,8 +120,7 @@ export default {
 
 .image-box img {
     position: relative;
-    width: 10vw;
-    height: 28vh;
+    width: 80%;
     left: 15%;
 }
 
