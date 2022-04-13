@@ -4,6 +4,6 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  publicPath : "/mybookflix",
-  outputDir : "docs",
-}
+  publicPath: "/mybookflix",
+  outputDir: "docs",
+};
